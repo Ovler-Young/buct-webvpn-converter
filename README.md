@@ -5,6 +5,7 @@
 > 🥑 WEBVPN Converter can help you convert a BUCT local area network URL into its corresponding WEBVPN URL so that you can access BUCT local resources from anywhere in the world.
 
 ## Thanks
+
 This project comes from [Spencer Woo's BIT webvpn project](https://github.com/spencerwooo/bit-webvpn-converter)
 
 [![screenshot](assets/screenshot.png)](https://webvpn.swo.moe)
