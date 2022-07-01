@@ -62,7 +62,7 @@ const ConverterCard = ({ reverse = false }: { reverse?: boolean }) => {
           type="url"
           placeholder={
             reverse
-              ? 'https://webvpn.bit.edu.cn/...'
+              ? 'https://webvpn.buct.edu.cn/...'
               : 'https | ssh | vnc | telnet | rdp://...'
           }
           value={enteredUrl}

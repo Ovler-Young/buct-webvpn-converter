@@ -1,6 +1,7 @@
 const Footer = () => (
   <footer className="bg-zinc-500/10 p-4 text-center text-gray-400 text-sm">
-    Created with love at BUCT
+    Created with love at BUCT{' '}
+    @ {new Date().getFullYear()}
     <br />
     Source code by{' '}
     <a
@@ -10,8 +11,7 @@ const Footer = () => (
       className="underline opacity-80 hover:opacity-100 transition-all duration-150"
     >
       Spencer Woo
-    </a>{' '}
-    <br />
+    </a>{' | '}
     Edited by{' '}
     <a
       href="https://180811.xyz"
@@ -20,8 +20,7 @@ const Footer = () => (
       className="underline opacity-80 hover:opacity-100 transition-all duration-150"
     >
     Ovler
-    </a>{' '}
-    @ {new Date().getFullYear()}
+    </a>
   </footer>
 )
 export default Footer

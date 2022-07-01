@@ -33,7 +33,7 @@ const Navbar = () => {
     <nav className="flex justify-end items-center py-2">
       <NavLink href="/">Converter</NavLink>
       <NavLink href="/retrevnoc">Retrevnoc</NavLink>
-      <NavLink href="https://github.com/spencerwooo/bit-webvpn-converter" isExternal>
+      <NavLink href="https://github.com/Ovler-Young/buct-webvpn-converter" isExternal>
         <div className="flex items-center">
           GitHub <RiGithubLine className="ml-1 w-4 h-4" />
         </div>
